@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;1,300;1,900&display=swap');
+
+.container {
+
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Initials {
+    font-family: 'Lato', sans-serif;
+    font-style: oblique;
+    color: white;
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 3px;
+    padding: 5px;
+    border: dodgerblue solid 2px;
+}
+
+.MyName {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+     margin-right: 5px;
+     margin-left: 5px;
+}
+
+.Kreska {
+    font-family: 'Lato', sans-serif;
+    font-style: oblique;
+    font-weight: normal;
+    font-size: 30px;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
